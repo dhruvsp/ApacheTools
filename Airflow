@@ -1,1 +1,1 @@
-
+Apache Airflow is an open-source platform to programmatically author, schedule, and monitor workflows. It is commonly used for data pipeline orchestration, where data is extracted from various sources, transformed, and loaded into a data warehouse or analytics platform.
